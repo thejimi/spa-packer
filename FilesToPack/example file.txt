@@ -1,0 +1,2 @@
+example file for spa-packer
+you can delete it
